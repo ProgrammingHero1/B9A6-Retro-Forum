@@ -20,7 +20,7 @@ PostByQuery: -  https://openapi.programming-hero.com/api/retro-forum/posts?categ
 
 ### Example
 
-PostByQuery: - https://openapi.programming-hero.com/api/retro-forum/posts?category=${Coding}
+PostByQuery: - https://openapi.programming-hero.com/api/retro-forum/posts?category=coding
 
 
 
